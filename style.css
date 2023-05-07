@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-size: x-large;
+}
+table{
+
+    background-color: antiquewhite;
+    border-radius: 20px;
+    text-align: center;
+}
+
+table th {
+    border-radius: 10px;
+
+  
+}
+table tr td {
+    border-radius: 10px;
+}
+
+table tr td:hover{
+    color: aliceblue;
+
+    background-color: aquamarine;
+}
